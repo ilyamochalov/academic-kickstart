@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d00738b1-be30-4a1e-bd3d-c1232d492325/deploy-status)](https://app.netlify.com/sites/ilyamochalov/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d00738b1-be30-4a1e-bd3d-c1232d492325/deploy-status)](https://app.netlify.com/sites/ilyamochalov/deploys) 
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
