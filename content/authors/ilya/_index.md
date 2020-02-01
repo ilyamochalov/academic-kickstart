@@ -71,4 +71,4 @@ email: ""
 # - Visitors
 ---
 
-Ilya Mochalov is a software engineer with proven strong technical skills and an excellent work ethic.  He is looking for ways to grow professionally and apply his skills to promote industry 4.0 adaptation by developing IoT systems. He is seeking to create incremental value to processes and product efficiency on design, operation and support phases. 
+Ilya Mochalov is a software engineer with proven strong technical skills and an excellent work ethic. He is looking for ways to grow professionally and apply his skills to promote digitalization in all areas by developing IT systems. In his spare time, he enjoys cooking and public speaking.
