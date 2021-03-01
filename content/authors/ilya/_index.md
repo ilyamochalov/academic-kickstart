@@ -18,12 +18,12 @@ role: Software engineer
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include DevOps, IoT, Minimalism
+bio: My interests include IT, Sustainability, Intentional living
 
 interests:
-- DevOps 💻
-- IoT 🤖
-- Minimalism 😃
+- Information technology 💻
+- Sustainability 🌿
+- Intentional living 😃
 - Public speaking 🎤
 
 # education:
@@ -46,9 +46,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ilya_mochalove
 - icon: github
   icon_pack: fab
   link: https://github.com/ilyamochalov
@@ -71,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-Ilya Mochalov is a software engineer with proven strong technical skills and an excellent work ethic. He is looking for ways to grow professionally and apply his skills to promote digitalization in all areas by developing IT systems. In his spare time, he enjoys cooking and public speaking.
+Ilya Mochalov is a software engineer living in Shanghai, China. Ilya is passionate about Tech for Good projects and making an positive influence with his work. In his spare time, he enjoys cooking and public speaking.
